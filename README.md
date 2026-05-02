@@ -53,7 +53,7 @@ BreathCare/
 ## 🚀 Installation & Setup
 
 ### Step 1: Clone the Repository
-git clone https://github.com/YOUR_USERNAME/BreathCare.git
+git clone https://github.com/Ykusuma829-mvsr/BreathCare.git
 cd BreathCare
 
 ### Step 2: Install Dependencies
